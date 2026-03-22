@@ -52,9 +52,8 @@
 
 ---
 ### 📜 Certifications
-[![Google Cybersecurity](https://img.shields.io/badge/Certification-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/B9JSIM7QWGBV)
-[![Google Cloud Cybersecurity](https://img.shields.io/badge/google%20cloud%20cybersecurity
-)](https://www.coursera.org/account/accomplishments/verify/63KLHEV7NX48)
+
+[![Python Automation in Cyberecurity ](https://img.shields.io/badge/Certification-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/B9JSIM7QWGBV)
 
 <p align="center">
   <i>"Your Devices, Our Expertise — Fast, Reliable, Smart"</i>
