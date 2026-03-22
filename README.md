@@ -10,7 +10,7 @@
 - 🛡️ Currently deep-diving into **Cybersecurity & Network Defense**.
 - 💻 Experienced in **Computer Hardware & Data Recovery**.
 - 🚀 Passionate about building secure digital infrastructures and custom PC solutions.
-- 🇮🇳 Based in India.
+- Account Based in India.
 
 ---
 
@@ -51,6 +51,10 @@
 </p>
 
 ---
+### 📜 Certifications
+[![Google Cybersecurity](https://img.shields.io/badge/Certification-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/B9JSIM7QWGBV)
+[![Google Cloud Cybersecurity](https://img.shields.io/badge/google%20cloud%20cybersecurity
+)](https://www.coursera.org/account/accomplishments/verify/63KLHEV7NX48)
 
 <p align="center">
   <i>"Your Devices, Our Expertise — Fast, Reliable, Smart"</i>
